@@ -8,11 +8,11 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Go](#go)
 *   [TypeScript](#typescript)
-*   [Java](#java)
 *   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
@@ -27,7 +27,39 @@
 *   [C#](#c-2)
 *   [Dockerfile](#dockerfile)
 
+## Java
+
+*   [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 自动追番、订阅、下载 蜜柑RSS动漫
+
+*   [caoliang1918/contact-center](https://github.com/caoliang1918/contact-center) - 智能电话外呼系统  呼叫中心系统  freeswitch webrtc
+
+*   [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌 a missing Java std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.
+
+*   [lgp547/any-door](https://github.com/lgp547/any-door) -
+
+*   [merua0oo0/im](https://github.com/merua0oo0/im) -
+
+*   [tuguangquan/mybatis](https://github.com/tuguangquan/mybatis) - mybatis源码中文注释
+
+*   [Liubsyy/HotSecondsIDEA](https://github.com/Liubsyy/HotSecondsIDEA) - HotSeconds是一款Java远程热部署的插件，可实现秒级一键化热更新。插件分为HotSecondsClient(IDEA热部署插件)和HotSecondsServer(服务端javaagent热更新插件)，可以热更新java和常用配置文件，也支持常用框架(Spring，MyBatis)的热更新，相对传统部署可节省大量时间提高开发效率。
+
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+
+*   [ainilili/ratel](https://github.com/ainilili/ratel) - 命令行斗地主、德州扑克!
+
+*   [houxinlin/cool-request](https://github.com/houxinlin/cool-request) - IDEA中快速调试接口、定时器插件
+
+*   [s-unscrupulous/idea\_seat](https://github.com/s-unscrupulous/idea_seat) - IDEA 久坐提醒插件
+
+*   [PerccyKing/batslog](https://github.com/PerccyKing/batslog) - 适用于 idea 的mybatis 日志插件（mybatis log plugin）
+
+*   [Link-Kou/intellij-mybaitslog](https://github.com/Link-Kou/intellij-mybaitslog) - 用于在IDEA将Mybatis的SQL日志还原为可执行的SQL，Used to restore Mybatis SQL logs to executable SQL in IDEA,
+
+*   [yindz/common-random](https://github.com/yindz/common-random) - 简单易用的随机数据生成器。生成各种比较真实的假数据。一般用于开发和测试阶段的数据填充模拟。支持各类中国特色本地化的数据格式。An easy-to use random data generator. Generally used for data filling, simulation, demonstration and other scenarios in the development and test phase.
+
 ## JavaScript
+
+*   [ZainCheung/wenjuanxin](https://github.com/ZainCheung/wenjuanxin) - 全自动填写问卷星的问卷，支持自定义填空答案，平均两三秒填写一份问卷，可多开几个标签同时刷
 
 *   [foss-android/free-for-dev-cn](https://github.com/foss-android/free-for-dev-cn) - free-for-dev中文docker版本，该仓库镜像全自动实现自动同步原仓库并翻译更新
 
@@ -88,34 +120,6 @@
 *   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 
 *   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
-
-## Java
-
-*   [caoliang1918/contact-center](https://github.com/caoliang1918/contact-center) - 智能电话外呼系统  呼叫中心系统  freeswitch webrtc
-
-*   [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌 a missing Java std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.
-
-*   [lgp547/any-door](https://github.com/lgp547/any-door) -
-
-*   [merua0oo0/im](https://github.com/merua0oo0/im) -
-
-*   [tuguangquan/mybatis](https://github.com/tuguangquan/mybatis) - mybatis源码中文注释
-
-*   [Liubsyy/HotSecondsIDEA](https://github.com/Liubsyy/HotSecondsIDEA) - HotSeconds是一款Java远程热部署的插件，可实现秒级一键化热更新。插件分为HotSecondsClient(IDEA热部署插件)和HotSecondsServer(服务端javaagent热更新插件)，可以热更新java和常用配置文件，也支持常用框架(Spring，MyBatis)的热更新，相对传统部署可节省大量时间提高开发效率。
-
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
-
-*   [ainilili/ratel](https://github.com/ainilili/ratel) - 命令行斗地主、德州扑克!
-
-*   [houxinlin/cool-request](https://github.com/houxinlin/cool-request) - IDEA中快速调试接口、定时器插件
-
-*   [s-unscrupulous/idea\_seat](https://github.com/s-unscrupulous/idea_seat) - IDEA 久坐提醒插件
-
-*   [PerccyKing/batslog](https://github.com/PerccyKing/batslog) - 适用于 idea 的mybatis 日志插件（mybatis log plugin）
-
-*   [Link-Kou/intellij-mybaitslog](https://github.com/Link-Kou/intellij-mybaitslog) - 用于在IDEA将Mybatis的SQL日志还原为可执行的SQL，Used to restore Mybatis SQL logs to executable SQL in IDEA,
-
-*   [yindz/common-random](https://github.com/yindz/common-random) - 简单易用的随机数据生成器。生成各种比较真实的假数据。一般用于开发和测试阶段的数据填充模拟。支持各类中国特色本地化的数据格式。An easy-to use random data generator. Generally used for data filling, simulation, demonstration and other scenarios in the development and test phase.
 
 ## Dart
 
