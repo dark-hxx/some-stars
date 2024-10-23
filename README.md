@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [Java](#java)
 *   [JavaScript](#javascript)
+*   [Java](#java)
 *   [HTML](#html)
 *   [Go](#go)
 *   [TypeScript](#typescript)
@@ -26,6 +26,42 @@
 *   [Objective-C](#objective-c)
 *   [C#](#c-2)
 *   [Dockerfile](#dockerfile)
+
+## JavaScript
+
+*   [liyupi/daxigua](https://github.com/liyupi/daxigua) - 最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！
+
+*   [ZainCheung/wenjuanxin](https://github.com/ZainCheung/wenjuanxin) - 全自动填写问卷星的问卷，支持自定义填空答案，平均两三秒填写一份问卷，可多开几个标签同时刷
+
+*   [foss-android/free-for-dev-cn](https://github.com/foss-android/free-for-dev-cn) - free-for-dev中文docker版本，该仓库镜像全自动实现自动同步原仓库并翻译更新
+
+*   [kolikow/ele](https://github.com/kolikow/ele) - 饿了么脚本最新修复 1300+ 梦幻小院 合成甜蜜蜜 经营美食摊 欢乐倒水 美味天天连 成语闯关 饿了个饿 2048超级大招
+
+*   [huaisha1224/Microsoft-Rewards](https://github.com/huaisha1224/Microsoft-Rewards) - 使用Python和Selenium赚取每日Microsoft Rewards积分的自动化解决方案，油猴脚本
+
+*   [sudojia/AutoTaskScript](https://github.com/sudojia/AutoTaskScript) - 自动化任务脚本助手，支持青龙面板及 Docker 部署
+
+*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS签到定时重放脚本框架，兼容青龙，夸克网盘|永辉生活|霸王茶姬|所有女生|兴攀农场|达美乐比萨|屈臣氏|华住会|海底捞|鸿星尔克|钉钉AI|阿里云盘|百度贴吧|WPS(打卡版) |哔哩哔哩|什么值得买|叮咚买菜|喜马拉雅|希沃白板|葫芦侠3楼|中兴社区|小米商城|vivo社区|宽带技术网|中兴商城|万能福利吧|废文|小木虫|科研通|雨云|在线工具|AcFun|看雪论坛|golo汽修大师|70games|ParsData|夸克转存|有道云笔记
+
+*   [NaroisCool/naro-scripts](https://github.com/NaroisCool/naro-scripts) - 自用青龙脚本【云闪付签到，京东读书签到，王者营地签到，百变小樱机场签到，呼死你（验证码轰炸），三国桃园签到】其他好玩的脚本也会更新
+
+*   [troyzhxu/bean-searcher](https://github.com/troyzhxu/bean-searcher) - 🔥🔥🔥 A read-only ORM focusing on advanced query, naturally supports joined tables, and avoids DTO/VO conversion, making it possible to realize complex query in one line of code !
+
+*   [uiwjs/province-city-china](https://github.com/uiwjs/province-city-china) - 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
+
+*   [app2smile/rules](https://github.com/app2smile/rules) - iOS App去广告
+
+*   [langren1353/GM\_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
+
+*   [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules) - 小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁
+
+*   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+
+*   [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2024年06月16日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据
+
+*   [adlered/CSDNGreener](https://github.com/adlered/CSDNGreener) - 《专 业 团 队》🕺🏿 🕺🏿 🕺🏿 🕺🏿 ⚰️🕺🏿 🕺🏿 🕺🏿 🕺🏿 | 专治 CSDN 广告与各种灵魂打击 | 🐵 油猴脚本 | TamperMonkey | Chrome | FireFox | CSDN 页面浮窗广告完全过滤净化 | 国服最强 CSDN 绿化脚本
+
+*   [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 - 一个免费开源的网盘下载助手
 
 ## Java
 
@@ -56,40 +92,6 @@
 *   [Link-Kou/intellij-mybaitslog](https://github.com/Link-Kou/intellij-mybaitslog) - 用于在IDEA将Mybatis的SQL日志还原为可执行的SQL，Used to restore Mybatis SQL logs to executable SQL in IDEA,
 
 *   [yindz/common-random](https://github.com/yindz/common-random) - 简单易用的随机数据生成器。生成各种比较真实的假数据。一般用于开发和测试阶段的数据填充模拟。支持各类中国特色本地化的数据格式。An easy-to use random data generator. Generally used for data filling, simulation, demonstration and other scenarios in the development and test phase.
-
-## JavaScript
-
-*   [ZainCheung/wenjuanxin](https://github.com/ZainCheung/wenjuanxin) - 全自动填写问卷星的问卷，支持自定义填空答案，平均两三秒填写一份问卷，可多开几个标签同时刷
-
-*   [foss-android/free-for-dev-cn](https://github.com/foss-android/free-for-dev-cn) - free-for-dev中文docker版本，该仓库镜像全自动实现自动同步原仓库并翻译更新
-
-*   [kolikow/ele](https://github.com/kolikow/ele) - 饿了么脚本最新修复 1300+ 梦幻小院 合成甜蜜蜜 经营美食摊 欢乐倒水 美味天天连 成语闯关 饿了个饿 2048超级大招
-
-*   [huaisha1224/Microsoft-Rewards](https://github.com/huaisha1224/Microsoft-Rewards) - 使用Python和Selenium赚取每日Microsoft Rewards积分的自动化解决方案，油猴脚本
-
-*   [sudojia/AutoTaskScript](https://github.com/sudojia/AutoTaskScript) - 自动化任务脚本助手，支持青龙面板及 Docker 部署
-
-*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS签到定时重放脚本框架，兼容青龙，夸克网盘|永辉生活|霸王茶姬|所有女生|兴攀农场|屈臣氏|华住会|海底捞|鸿星尔克|钉钉AI|阿里云盘|百度贴吧|WPS(打卡版) |哔哩哔哩|什么值得买|叮咚买菜|喜马拉雅|希沃白板|葫芦侠3楼|中兴社区|小米商城|vivo社区|宽带技术网|中兴商城|万能福利吧|废文|小木虫|科研通|雨云|在线工具|AcFun|看雪论坛|golo汽修大师|70games|ParsData|夸克转存|有道云笔记
-
-*   [NaroisCool/naro-scripts](https://github.com/NaroisCool/naro-scripts) - 自用青龙脚本【云闪付签到，京东读书签到，王者营地签到，百变小樱机场签到，呼死你（验证码轰炸），三国桃园签到】其他好玩的脚本也会更新
-
-*   [troyzhxu/bean-searcher](https://github.com/troyzhxu/bean-searcher) - 🔥🔥🔥 A read-only ORM focusing on advanced query, naturally supports joined tables, and avoids DTO/VO conversion, making it possible to realize complex query in one line of code !
-
-*   [uiwjs/province-city-china](https://github.com/uiwjs/province-city-china) - 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
-
-*   [app2smile/rules](https://github.com/app2smile/rules) - iOS App去广告
-
-*   [langren1353/GM\_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
-
-*   [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules) - 小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁
-
-*   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-
-*   [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2024年06月16日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据
-
-*   [adlered/CSDNGreener](https://github.com/adlered/CSDNGreener) - 《专 业 团 队》🕺🏿 🕺🏿 🕺🏿 🕺🏿 ⚰️🕺🏿 🕺🏿 🕺🏿 🕺🏿 | 专治 CSDN 广告与各种灵魂打击 | 🐵 油猴脚本 | TamperMonkey | Chrome | FireFox | CSDN 页面浮窗广告完全过滤净化 | 国服最强 CSDN 绿化脚本
-
-*   [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 - 一个免费开源的网盘下载助手
 
 ## HTML
 
