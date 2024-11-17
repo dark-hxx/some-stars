@@ -107,7 +107,7 @@
 
 *   [ainilili/ratel](https://github.com/ainilili/ratel) - 命令行斗地主、德州扑克!
 
-*   [houxinlin/cool-request](https://github.com/houxinlin/cool-request) - IDEA中快速调试接口、定时器插件
+*   [houxinlin/cool-request](https://github.com/houxinlin/cool-request) - IDEA API、Java Method  debug tools
 
 *   [s-unscrupulous/idea\_seat](https://github.com/s-unscrupulous/idea_seat) - IDEA 久坐提醒插件
 
