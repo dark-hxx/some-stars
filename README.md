@@ -149,7 +149,7 @@
 
 ## Python
 
-*   [MeetWq/meme-generator](https://github.com/MeetWq/meme-generator) - 表情包生成器，用于制作各种沙雕表情包
+*   [MemeCrafters/meme-generator](https://github.com/MemeCrafters/meme-generator) - 表情包生成器，用于制作各种沙雕表情包
 
 *   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 
