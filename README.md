@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Java](#java)
@@ -26,6 +27,10 @@
 *   [Objective-C](#objective-c)
 *   [C#](#c-2)
 *   [Dockerfile](#dockerfile)
+
+## Ruby
+
+*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## TypeScript
 
