@@ -12,9 +12,9 @@
 *   [TypeScript](#typescript)
 *   [Batchfile](#batchfile)
 *   [Ruby](#ruby)
-*   [Java](#java)
 *   [HTML](#html)
 *   [Go](#go)
+*   [Java](#java)
 *   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
@@ -29,6 +29,8 @@
 *   [Dockerfile](#dockerfile)
 
 ## JavaScript
+
+*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 
 *   [cmliussss2024/CF-Workers-checkin](https://github.com/cmliussss2024/CF-Workers-checkin) - 签到
 
@@ -102,9 +104,19 @@
 
 *   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
-## Java
+## HTML
 
-*   [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 自动追番、订阅、下载 蜜柑RSS动漫
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+## Go
+
+*   [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
+
+*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+
+*   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
+
+## Java
 
 *   [caoliang1918/contact-center](https://github.com/caoliang1918/contact-center) - 智能电话外呼系统  呼叫中心系统  freeswitch webrtc
 
@@ -131,18 +143,6 @@
 *   [Link-Kou/intellij-mybaitslog](https://github.com/Link-Kou/intellij-mybaitslog) - 用于在IDEA将Mybatis的SQL日志还原为可执行的SQL，Used to restore Mybatis SQL logs to executable SQL in IDEA,
 
 *   [yindz/common-random](https://github.com/yindz/common-random) - 简单易用的随机数据生成器。生成各种比较真实的假数据。一般用于开发和测试阶段的数据填充模拟。支持各类中国特色本地化的数据格式。An easy-to use random data generator. Generally used for data filling, simulation, demonstration and other scenarios in the development and test phase.
-
-## HTML
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-## Go
-
-*   [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
-
-*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-
-*   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 
 ## Dart
 
