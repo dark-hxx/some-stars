@@ -62,7 +62,7 @@
 
 *   [troyzhxu/bean-searcher](https://github.com/troyzhxu/bean-searcher) - 🔥🔥🔥 A read-only ORM focusing on advanced query, naturally supports joined tables, and avoids DTO/VO conversion, making it possible to realize complex query in one line of code !
 
-*   [uiwjs/province-city-china](https://github.com/uiwjs/province-city-china) - 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
+*   [uiwjs/province-city-china](https://github.com/uiwjs/province-city-china) - 🇨🇳 Complete and updated China administrative divisions (province, city, county, town) in JSON, CSV, and SQL formats 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
 
 *   [app2smile/rules](https://github.com/app2smile/rules) - iOS App去广告
 
