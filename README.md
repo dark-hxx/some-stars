@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Vue](#vue)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -19,14 +20,25 @@
 *   [Java](#java)
 *   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Kotlin](#kotlin)
 *   [Swift](#swift)
 *   [AutoHotkey](#autohotkey)
-*   [C](#c-1)
+*   [C](#c-2)
 *   [Objective-C](#objective-c)
-*   [C#](#c-2)
 *   [Dockerfile](#dockerfile)
+
+## C\#
+
+*   [zetaloop/OFGB](https://github.com/zetaloop/OFGB) - 广告滚蛋 - 删除 Win11 各处广告的小工具 - OFGB Chinese localized fork
+
+*   [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform!
+
+*   [zuo-shi-yun/Wallpaper-Engine-downloader](https://github.com/zuo-shi-yun/Wallpaper-Engine-downloader) - 将wallpaper engine(小红车)中类型为"场景"的壁纸转为png/jpg图片
+
+*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 ## Vue
 
@@ -211,16 +223,6 @@
 *   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
 
 *   [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
-
-## C\#
-
-*   [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform!
-
-*   [zuo-shi-yun/Wallpaper-Engine-downloader](https://github.com/zuo-shi-yun/Wallpaper-Engine-downloader) - 将wallpaper engine(小红车)中类型为"场景"的壁纸转为png/jpg图片
-
-*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 ## Dockerfile
 
