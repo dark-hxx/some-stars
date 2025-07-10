@@ -80,7 +80,7 @@
 
 *   [sudojia/AutoTaskScript](https://github.com/sudojia/AutoTaskScript) - 自动化任务脚本助手，支持青龙面板及 Docker 部署
 
-*   [imoki/sign\_script](https://github.com/imoki/sign_script) - WPS多定时脚本管理框架，适配airscript1.0、airscript2.0和Node.js原生环境，接入deepseek分析工具。具备高兼容性，智能生成表格，表格一键更新，多表统一配置，多渠道消息推送，消息智能分片。
+*   [imoki/sign\_script](https://github.com/imoki/sign_script) - 适配airscript1.0、airscript2.0
 
 *   [NaroisCool/naro-scripts](https://github.com/NaroisCool/naro-scripts) - 自用青龙脚本【云闪付签到，京东读书签到，王者营地签到，百变小樱机场签到，呼死你（验证码轰炸），三国桃园签到】其他好玩的脚本也会更新
 
