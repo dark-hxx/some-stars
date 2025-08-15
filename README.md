@@ -8,9 +8,9 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Vue](#vue)
 *   [C#](#c)
-*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Batchfile](#batchfile)
@@ -27,6 +27,18 @@
 *   [C](#c-2)
 *   [Objective-C](#objective-c)
 *   [Dockerfile](#dockerfile)
+
+## Python
+
+*   [dingyufei615/ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor) - 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
+
+*   [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
+
+*   [MemeCrafters/meme-generator](https://github.com/MemeCrafters/meme-generator) - 表情包生成器，用于制作各种沙雕表情包
+
+*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
+
+*   [moshstudio/TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
 
 ## Vue
 
@@ -51,16 +63,6 @@
 *   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 
 *   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-## Python
-
-*   [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
-
-*   [MemeCrafters/meme-generator](https://github.com/MemeCrafters/meme-generator) - 表情包生成器，用于制作各种沙雕表情包
-
-*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
-
-*   [moshstudio/TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
 
 ## JavaScript
 
