@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Python](#python)
 *   [Vue](#vue)
 *   [C#](#c)
@@ -27,6 +28,10 @@
 *   [C](#c-2)
 *   [Objective-C](#objective-c)
 *   [Dockerfile](#dockerfile)
+
+## Rust
+
+*   [OldSuns/SnapLock](https://github.com/OldSuns/SnapLock) -
 
 ## Python
 
