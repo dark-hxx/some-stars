@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
+*   [HTML](#html)
 *   [Python](#python)
 *   [Vue](#vue)
 *   [C#](#c)
@@ -16,7 +16,6 @@
 *   [TypeScript](#typescript)
 *   [Batchfile](#batchfile)
 *   [Ruby](#ruby)
-*   [HTML](#html)
 *   [Go](#go)
 *   [Java](#java)
 *   [Dart](#dart)
@@ -29,9 +28,11 @@
 *   [Objective-C](#objective-c)
 *   [Dockerfile](#dockerfile)
 
-## Rust
+## HTML
 
 *   [OldSuns/SnapLock](https://github.com/OldSuns/SnapLock) -
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ## Python
 
@@ -144,10 +145,6 @@
 ## Ruby
 
 *   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-
-## HTML
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ## Go
 
