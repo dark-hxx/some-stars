@@ -58,7 +58,7 @@
 
 ## HTML
 
-*   [OldSuns/SnapLock](https://github.com/OldSuns/SnapLock) -
+*   [OldSuns/SnapLock](https://github.com/OldSuns/SnapLock) - 一款智能安全工具，离开时自动监控并拍照锁屏防止他人操作电脑
 
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
