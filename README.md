@@ -122,7 +122,7 @@
 
 *   [imoki/sign\_script](https://github.com/imoki/sign_script) - 适配airscript1.0、airscript2.0
 
-*   [NaroisCool/naro-scripts](https://github.com/NaroisCool/naro-scripts) - 自用青龙脚本，呼死你（短信轰炸，验证码轰炸，电话轰炸），京东读书签到，王者营地签到，百变小樱机场签到
+*   [NaroisCool/naro-scripts](https://github.com/NaroisCool/naro-scripts) - 自用青龙脚本，京东读书签到，王者营地签到，百变小樱机场签到
 
 *   [troyzhxu/bean-searcher](https://github.com/troyzhxu/bean-searcher) - 🔥🔥🔥 A read-only ORM focusing on advanced query, naturally supports joined tables, and avoids DTO/VO conversion, making it possible to realize complex query in one line of code !
 
