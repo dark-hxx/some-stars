@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
 *   [Python](#python)
@@ -27,6 +28,10 @@
 *   [C](#c-2)
 *   [Objective-C](#objective-c)
 *   [Dockerfile](#dockerfile)
+
+## Rust
+
+*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 
 ## TypeScript
 
