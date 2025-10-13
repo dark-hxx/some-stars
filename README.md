@@ -8,10 +8,10 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
-*   [Python](#python)
 *   [Vue](#vue)
 *   [C#](#c)
 *   [JavaScript](#javascript)
@@ -28,6 +28,20 @@
 *   [C](#c-2)
 *   [Objective-C](#objective-c)
 *   [Dockerfile](#dockerfile)
+
+## Python
+
+*   [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
+
+*   [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
+
+*   [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
+
+*   [MemeCrafters/meme-generator](https://github.com/MemeCrafters/meme-generator) - 表情包生成器，用于制作各种沙雕表情包
+
+*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
+
+*   [moshstudio/TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
 
 ## Rust
 
@@ -74,18 +88,6 @@
 *   [OldSuns/SnapLock](https://github.com/OldSuns/SnapLock) - 一款智能安全工具，离开时自动监控并拍照锁屏防止他人操作电脑
 
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-## Python
-
-*   [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
-
-*   [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
-
-*   [MemeCrafters/meme-generator](https://github.com/MemeCrafters/meme-generator) - 表情包生成器，用于制作各种沙雕表情包
-
-*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
-
-*   [moshstudio/TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
 
 ## Vue
 
