@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [Python](#python)
 *   [Rust](#rust)
@@ -20,7 +21,6 @@
 *   [Ruby](#ruby)
 *   [Go](#go)
 *   [Java](#java)
-*   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c-1)
 *   [Swift](#swift)
@@ -28,6 +28,12 @@
 *   [C](#c-2)
 *   [Objective-C](#objective-c)
 *   [Dockerfile](#dockerfile)
+
+## Dart
+
+*   [spin311/MicrosoftRewardsWebsite](https://github.com/spin311/MicrosoftRewardsWebsite) - Microsoft Automatic rewards google extension and phone app
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## Kotlin
 
@@ -206,10 +212,6 @@
 *   [Link-Kou/intellij-mybaitslog](https://github.com/Link-Kou/intellij-mybaitslog) - 用于在IDEA将Mybatis的SQL日志还原为可执行的SQL，Used to restore Mybatis SQL logs to executable SQL in IDEA,
 
 *   [yindz/common-random](https://github.com/yindz/common-random) - 简单易用的随机数据生成器。生成各种比较真实的假数据。一般用于开发和测试阶段的数据填充模拟。支持各类中国特色本地化的数据格式。An easy-to use random data generator. Generally used for data filling, simulation, demonstration and other scenarios in the development and test phase.
-
-## Dart
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## miscellaneous
 
