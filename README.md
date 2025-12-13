@@ -9,28 +9,35 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
+*   [Rust](#rust)
+*   [Vue](#vue)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [JavaScript](#javascript)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
-*   [Rust](#rust)
 *   [HTML](#html)
 *   [C#](#c)
-*   [Vue](#vue)
 *   [Batchfile](#batchfile)
 *   [Ruby](#ruby)
 *   [Go](#go)
 *   [Java](#java)
-*   [miscellaneous](#miscellaneous)
 *   [C++](#c-1)
 *   [Swift](#swift)
 *   [AutoHotkey](#autohotkey)
 *   [C](#c-2)
 *   [Objective-C](#objective-c)
-*   [Dockerfile](#dockerfile)
 
 ## TypeScript
+
+*   [iLay1678/i-tools](https://github.com/iLay1678/i-tools) - 爱拓工具箱
+
+*   [aabacada/CloudNav-abcd](https://github.com/aabacada/CloudNav-abcd) - 【abcd修改版-个人用】托管在cloudflare上的轻量化导航，可以同步谷歌书签
+
+*   [YYsuni/2025-blog-public](https://github.com/YYsuni/2025-blog-public) - 开源blog，让你不写代码就开始写 blog，管理 blog 内容。无需服务器，无需费用。
+
+*   [rejetto/hfs](https://github.com/rejetto/hfs) - HFS is a web file server for your computer. Share folders or even a single file thanks to the virtual file system.
 
 *   [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
 
@@ -66,17 +73,35 @@
 
 *   [oiov/vmail](https://github.com/oiov/vmail) - 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回。
 
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+
 *   [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 
-*   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
+## miscellaneous
+
+*   [byJoey/cfnew](https://github.com/byJoey/cfnew) -
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [stackia/best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
+
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
+
+*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
+
+*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
 ## Python
 
+*   [mucsbr/Gemi2Api-Server](https://github.com/mucsbr/Gemi2Api-Server) - HanaokaYuzu / Gemini-API 的服务端简单实现（自动更新上游）
+
+*   [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+
 *   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
 
 *   [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
 
@@ -90,6 +115,22 @@
 
 *   [moshstudio/TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
 
+## Rust
+
+*   [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
+
+*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
+
+## Vue
+
+*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
+
+*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
+
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+
+*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+
 ## Jupyter Notebook
 
 *   [zyds/transformers-code](https://github.com/zyds/transformers-code) - 手把手带你实战 Huggingface Transformers 课程视频同步更新在B站与YouTube
@@ -98,7 +139,7 @@
 
 *   [y-shi23/MeowNocode](https://github.com/y-shi23/MeowNocode) - memos类开源高颜值便签应用
 
-*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/large file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3 aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
+*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3/WebDav/OneDrive/GoogleDrive/GithubRelease/Local aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
 
 *   [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 
@@ -154,10 +195,6 @@
 
 *   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 
-## Rust
-
-*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
-
 ## HTML
 
 *   [OldSuns/SnapLock](https://github.com/OldSuns/SnapLock) - 一款智能安全工具，离开时自动监控并拍照锁屏防止他人操作电脑
@@ -172,25 +209,9 @@
 
 *   [zuo-shi-yun/Wallpaper-Engine-downloader](https://github.com/zuo-shi-yun/Wallpaper-Engine-downloader) - 将wallpaper engine(小红车)中类型为"场景"的壁纸转为png/jpg图片
 
-*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-## Vue
-
-*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
-
-*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-
-*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
-
-*   [shiyutim/tickets](https://github.com/shiyutim/tickets) - 大麦、大麦网 演唱会抢票软件，一个基于 tauri + rust + vue 调用接口的抢票软件。
-
 ## Batchfile
 
 *   [moshowgame/Navicat\_Keygen\_Patch](https://github.com/moshowgame/Navicat_Keygen_Patch) - Navicat Keygen Patch/Navicat Cracker for 17 , warning , its for trial only ,please delete it within 12 hours.
-
-*   [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
 
 ## Ruby
 
@@ -201,8 +222,6 @@
 *   [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
 
 *   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-
-*   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 
 ## Java
 
@@ -218,8 +237,6 @@
 
 *   [Liubsyy/HotSecondsIDEA](https://github.com/Liubsyy/HotSecondsIDEA) - HotSeconds是一款Java远程热部署的插件，可实现秒级一键化热更新。插件分为HotSecondsClient(IDEA热部署插件)和HotSecondsServer(服务端javaagent热更新插件)，可以热更新java和常用配置文件，也支持常用框架(Spring，MyBatis)的热更新，相对传统部署可节省大量时间提高开发效率。
 
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
-
 *   [ainilili/ratel](https://github.com/ainilili/ratel) - 命令行斗地主、德州扑克!
 
 *   [houxinlin/cool-request](https://github.com/houxinlin/cool-request) - IDEA API、Java Method  debug tools
@@ -230,22 +247,6 @@
 
 *   [Link-Kou/intellij-mybaitslog](https://github.com/Link-Kou/intellij-mybaitslog) - 用于在IDEA将Mybatis的SQL日志还原为可执行的SQL，Used to restore Mybatis SQL logs to executable SQL in IDEA,
 
-*   [yindz/common-random](https://github.com/yindz/common-random) - 简单易用的随机数据生成器。生成各种比较真实的假数据。一般用于开发和测试阶段的数据填充模拟。支持各类中国特色本地化的数据格式。An easy-to use random data generator. Generally used for data filling, simulation, demonstration and other scenarios in the development and test phase.
-
-## miscellaneous
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [stackia/best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
-
-*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
-
-*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
-
-*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-
-*   [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡漏洞查询，⚡手机号归属地查询，⚡知识库查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，，🌱自动群发，👯Ai回复（国内主流AI模型，扣子，FastGpt，Dify全面支持！），⚡视频号解析，😄自定义程度丰富，小白也可轻松上手！
-
 ## C++
 
 *   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
@@ -253,6 +254,8 @@
 ## Swift
 
 *   [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
+
+*   [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
 
 ## AutoHotkey
 
@@ -265,9 +268,3 @@
 ## Objective-C
 
 *   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
-
-*   [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
-
-## Dockerfile
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
