@@ -30,6 +30,8 @@
 
 ## Python
 
+*   [Dreamy-rain/gemini-business2api](https://github.com/Dreamy-rain/gemini-business2api) - OpenAI API gateway for Google Gemini Business with multi-account load balancing | 将 Gemini Business 转换为 OpenAI 接口，支持画图，支持多账户负载均衡
+
 *   [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈等多格式 | 15 个示例 | 229 页 | 生成可编辑的 ppt 格式
 
 *   [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
@@ -43,6 +45,8 @@
 *   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 
 ## TypeScript
+
+*   [iLay1678/i-tools](https://github.com/iLay1678/i-tools) - 爱拓工具箱
 
 *   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI, Claude Code, Codex, Qwen Code, Goose Cli, Auggie, and more — Enhanced Chat UI, WebUI, Multi-Agent & Multi-LLM, MCP Integration | 🌟 Star if you like it!
 
