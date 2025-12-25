@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [TypeScript](#typescript)
+*   [Python](#python)
 *   [C#](#c)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
@@ -28,23 +28,9 @@
 *   [Swift](#swift)
 *   [Dockerfile](#dockerfile)
 
-## Python
-
-*   [Dreamy-rain/gemini-business2api](https://github.com/Dreamy-rain/gemini-business2api) - OpenAI API gateway for Google Gemini Business with multi-account load balancing | 将 Gemini Business 转换为 OpenAI 接口，支持画图，支持多账户负载均衡
-
-*   [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈等多格式 | 15 个示例 | 229 页 | 生成可编辑的 ppt 格式
-
-*   [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-
-*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
-
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
-
-*   [MemeCrafters/meme-generator](https://github.com/MemeCrafters/meme-generator) - 表情包生成器，用于制作各种沙雕表情包
-
-*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
-
 ## TypeScript
+
+*   [Anarkh-Lee/visual-docker-compose](https://github.com/Anarkh-Lee/visual-docker-compose) - 一款现代化的 Docker Compose 可视化生成器，通过拖拽操作快速构建容器编排配置文件。
 
 *   [iLay1678/i-tools](https://github.com/iLay1678/i-tools) - 爱拓工具箱
 
@@ -78,9 +64,23 @@
 
 *   [oiov/vmail](https://github.com/oiov/vmail) - 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回。
 
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-
 *   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
+
+## Python
+
+*   [Dreamy-rain/gemini-business2api](https://github.com/Dreamy-rain/gemini-business2api) - OpenAI API gateway for Google Gemini Business with multi-account load balancing | 将 Gemini Business 转换为 OpenAI 接口，支持画图，支持多账户负载均衡
+
+*   [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈等多格式 | 15 个示例 | 229 页 | 生成可编辑的 ppt 格式
+
+*   [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+
+*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
+
+*   [MemeCrafters/meme-generator](https://github.com/MemeCrafters/meme-generator) - 表情包生成器，用于制作各种沙雕表情包
+
+*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 
 ## C\#
 
@@ -189,6 +189,8 @@
 *   [tuguangquan/mybatis](https://github.com/tuguangquan/mybatis) - mybatis源码中文注释
 
 *   [Liubsyy/HotSecondsIDEA](https://github.com/Liubsyy/HotSecondsIDEA) - HotSeconds是一款Java远程热部署的插件，可实现秒级一键化热更新。插件分为HotSecondsClient(IDEA热部署插件)和HotSecondsServer(服务端javaagent热更新插件)，可以热更新java和常用配置文件，也支持常用框架(Spring，MyBatis)的热更新，相对传统部署可节省大量时间提高开发效率。
+
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
 *   [ainilili/ratel](https://github.com/ainilili/ratel) - 命令行斗地主、德州扑克!
 
